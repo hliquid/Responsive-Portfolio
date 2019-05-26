@@ -1,2 +1,2 @@
-# Responsive-Portfolio
-Upgrading the Basic-Portfolio with smartphone compatibility.
+# Basic-Portfolio
+Class homework
